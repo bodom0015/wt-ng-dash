@@ -10368,10 +10368,10 @@ union-value@^1.0.0:
     is-extendable "^0.1.1"
     set-value "^0.4.3"
 
-unionize@~2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/unionize/-/unionize-2.1.2.tgz#2513b148de515bec93f045d1685bd88eab62b608"
-  integrity sha1-JROxSN5RW+yT8EXRaFvYjqtitgg=
+unionize@~3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/unionize/-/unionize-3.0.0.tgz#d3ec71fdb38c841b8b4870b4d9fed0af9fb3b15c"
+  integrity sha512-4jvszOOI2YqaiUhrm75QvnoQwH1EoLB8R2ggVO2ZFhOD02ZIbR66xTr52yNRjfCfYaKlBHMrko7Ye3mYS/ZwSw==
 
 uniq@^1.0.1:
   version "1.0.1"
